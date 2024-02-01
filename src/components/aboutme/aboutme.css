@@ -1,0 +1,29 @@
+.container{
+    display: inline;
+}
+
+
+.text4{
+    overflow: hidden;
+    font-weight:800;
+    width: 100%;
+
+    white-space: nowrap;
+    animation: 
+     typing 2s infinite ,
+     cursor .4s step-end infinite alternate;
+     
+}
+
+
+ 
+@keyframes cursor {
+    50% {border-color: transparent}
+    
+}
+@keyframes typing {
+    from{width: 0}
+    
+    
+}
+    

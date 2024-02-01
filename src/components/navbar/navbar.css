@@ -1,0 +1,23 @@
+.text-glow {
+    text-shadow: 0 0 10px rgba(82, 80, 75, 0.8), 0 0 20px rgba(143, 138, 126, 0.8), 0 0 30px rgba(168, 157, 129, 0.8);
+  }
+  .p-2{
+    position: relative;
+  }
+  
+/* 
+  <div className="flex flex-wrap pt-10 gap-8 justify-start">
+  <div className="max-w-[600px]">
+    <p className="font-bold text-4xl">
+      Passionate Full Stack Developer <br />
+      & Machine Learning Enthusiast | Web APIs to Embedded Systems 🚀
+    </p>
+  </div>
+  <div className="max-w-[500px] p-10">
+    <p>
+      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaa
+      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    </p>
+  </div>
+</div> */
